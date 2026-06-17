@@ -1,6 +1,5 @@
 <div align="center">
-## 👋 Hi, I'm Bảo
-
+👋 Hi, I'm Gia Bảo
 </div>
 
 ## 📊 GitHub Stats
