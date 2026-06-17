@@ -1,6 +1,5 @@
 <h1 align="center">Hi , I'm Bao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
----
 ## 📊 GitHub Stats
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gibaohung-dev&theme=tokyonight" alt="GitHub Profile Summary" />
